@@ -11,16 +11,13 @@ I’m passionate about **Cloud Computing, Cybersecurity, and Automation** — bu
 
 ### 🚀 What I’m Working On
 - Building AWS cloud projects (multi-tier apps, CI/CD pipelines, security labs).
-- Expanding my knowledge of **Terraform** and **Python (Boto3)** for Infrastructure-as-Code.
-- Writing about my cloud/security journey on LinkedIn.
+- Expanding my knowledge of **Terraform** and **Python** for Infrastructure-as-Code.
+- Writing about my journey on LinkedIn.
 
-### 🌱 What I’m Learning
+### 🌱 My Future Goals
 - **AWS Certified Solutions Architect – Associate** (next step after my AWS Cloud Practitioner).
 - **Git & GitHub** for version control and collaboration.
 - Hands-on **Cloud Security** practices with GuardDuty, WAF, and IAM.
-
-### 🤝 Collaboration
-- Open to collaborating on **cloud infrastructure projects**, **CTFs**, or **open-source security tools**.
 
 ### 💬 Ask Me About
 - Getting started with **AWS Cloud** as a beginner.
@@ -28,9 +25,9 @@ I’m passionate about **Cloud Computing, Cybersecurity, and Automation** — bu
 - My journey balancing university studies with building **industry-ready skills**.
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yousuf-rizwan2006)
+- [LinkedIn](https://www.linkedin.com/in/yousuf-rizwan2006) or press the linkedin image!!
 - GitHub (you’re already here 👀)
 
 ### ⚡ Fun Fact
-When I’m not building in the cloud ☁️, you’ll probably find me reading sci-fi/fantasy novels or experimenting with new productivity systems.
+When I’m not doing work, you’ll probably find me reading books or being active!
 

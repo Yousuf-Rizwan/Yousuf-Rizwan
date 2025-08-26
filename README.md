@@ -4,10 +4,13 @@
   </a>
 </div>
 
-# 👨🏻‍💻 A little bit About Me
+<div align="center">
 
-Hi! I’m **Yousuf Rizwan**, an undergraduate studying **Computer Science** at the University of Liverpool.  
-I’m passionate about **Cloud Computing, Cybersecurity, and Automation** — building real-world projects while sharpening my technical and problem-solving skills.  
+<h2>👨🏻‍💻 A Little Bit About Me</h2>
+<p>Hi! I’m <b>Yousuf Rizwan</b>, an undergraduate studying <b>Computer Science</b> at the University of Liverpool.</p>
+<p>I’m passionate about <b>Cloud Computing, Cybersecurity, and Automation</b> — building real-world projects while sharpening my technical and problem-solving skills.</p>
+
+</div>
 
 ---
 

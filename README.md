@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/yousuf-rizwan2006">
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ad009ce2-ffde-469c-bbb8-6af6358c31b2" />
-
+```yaml
 ##👨🏻‍💻  A Little Bit About Me and My Interests
 
 Here are some ideas to get you started:
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+```

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://www.linkedin.com/in/yousuf-rizwan2006">
-  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/ad009ce2-ffde-469c-bbb8-6af6358c31b2" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ad009ce2-ffde-469c-bbb8-6af6358c31b2" />
  height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <!--

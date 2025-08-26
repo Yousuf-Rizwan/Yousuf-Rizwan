@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 👨🏻‍💻 About Me
+# 👨🏻‍💻 A little bit About Me
 
 Hi! I’m **Yousuf Rizwan**, an undergraduate studying **Computer Science** at the University of Liverpool.  
 I’m passionate about **Cloud Computing, Cybersecurity, and Automation** — building real-world projects while sharpening my technical and problem-solving skills.  
@@ -29,7 +29,3 @@ I’m passionate about **Cloud Computing, Cybersecurity, and Automation** — bu
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/yousuf-rizwan2006) or press the linkedin image!!
 - GitHub (you’re already here 👀)
-
-### ⚡ Fun Fact
-When I’m not doing work, you’ll probably find me reading books or being active!
-
